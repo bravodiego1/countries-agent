@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "components/toolsInspector.js", "components/sideBarHistory.js", "components/chatMessages.js", "app/page.tsx"  ],
   "exclude": ["node_modules"]
 }
